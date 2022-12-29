@@ -1,4 +1,7 @@
+Link to the Page: https://weimingtay.github.io/20221229_Frontend_QR-Code/
+
 # Frontend Mentor - QR code component
+
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
